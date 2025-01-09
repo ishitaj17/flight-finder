@@ -1,4 +1,4 @@
-# ANDROID APP FOR ZENSE RECRUITMENT 
+# ANDROID APP 
 
  Developed By Ishita Jangle
   
