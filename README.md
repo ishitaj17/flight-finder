@@ -1,6 +1,6 @@
 # ANDROID APP FOR ZENSE RECRUITMENT 
 
- Developed By Archit Sangal 
+ Developed By Ishita Jangle
   
 ## Editing The Project ( Only For Those Who Want To Improve This App)
 
